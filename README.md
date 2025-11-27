@@ -62,3 +62,5 @@ Notes ✨
 Uses List<Sale> to store sales dynamically (no fixed limit).
 Beginner-friendly console program for learning C# basics, loops, arrays, and lists.
 Can be extended to save data to a file for persistent storage.
+
+
